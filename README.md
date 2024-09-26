@@ -1,3 +1,3 @@
-# Welcome to Tasks Tracker!
+# Welcome to Tasks Tracker
 
 This is a practice project
